@@ -1,0 +1,5 @@
+#Tue Aug 13 21:41:22 CST 2019
+admin=admin
+zhangsan=30
+lisi=100
+wangwu=50
